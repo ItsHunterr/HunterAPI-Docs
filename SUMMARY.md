@@ -26,3 +26,7 @@
   * [Wanted](endpoints/wanted.md)
   * [Weather](endpoints/weather.md)
   * [Youtube](endpoints/youtube.md)
+
+## XD
+
+* [😁 fact](xd/fact.md)
