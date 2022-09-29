@@ -7,3 +7,4 @@
 
 * [😁 Fact](endpoints/fact.md)
 * [🎶 Lyrics](endpoints/lyrics.md)
+* [🎨 Color](endpoints/lyrics-1.md)
