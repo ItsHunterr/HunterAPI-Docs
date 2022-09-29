@@ -1,2 +1,2 @@
-# endpoints
+# ENDPOINTS
 
