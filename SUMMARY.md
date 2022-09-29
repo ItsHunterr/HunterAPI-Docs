@@ -6,3 +6,4 @@
 ## ENDPOINTS
 
 * [😁 Fact](endpoints/fact.md)
+* [🎶 Lyrics](endpoints/lyrics.md)

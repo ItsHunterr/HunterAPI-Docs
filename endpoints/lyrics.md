@@ -8,10 +8,14 @@ description: Get the lyrics of a song
 
 ****[**https://hunterapi.tk/api/lyrics**](https://hunterapi.tk/api/lyrics)****
 
-{% swagger method="get" path="/lyrics" baseUrl="https://hunterapi.tk/api" summary="Get a lyrics" %}
+{% swagger method="get" path="/lyrics" baseUrl="https://hunterapi.tk/api" summary="Get the lyrics of a song" %}
 {% swagger-description %}
 
 {% endswagger-description %}
+
+{% swagger-parameter in="query" name="song" type="String" required="true" %}
+The song name
+{% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
 ```json
