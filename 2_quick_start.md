@@ -7,7 +7,7 @@ Take a look at how you might call an endpoint using the api with different progr
 {% tab title="Javascript (NodeJS)" %}
 ```javascript
 const fetch = require("node-fetch")
-const api_response = await fetch(`https://hunterapi.sytes.net/fact`).then(r => r.json())
+const api_response = await fetch(`https://hunterapi.tk/api/fact`).then(r => r.json())
 
 api_response.fact // Output: On Jupiter and Saturn it rains diamonds.
 ```
