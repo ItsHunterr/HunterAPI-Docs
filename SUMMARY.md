@@ -8,3 +8,4 @@
 * [😁 Fact](endpoints/fact.md)
 * [🎶 Lyrics](endpoints/lyrics.md)
 * [🎨 Color](endpoints/color.md)
+* [🔃 Random Word](endpoints/random\_word.md)
