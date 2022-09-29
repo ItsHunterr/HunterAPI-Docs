@@ -2,7 +2,7 @@
 
 * [Welcome to HunterAPI](README.md)
 * [Quick Start](2\_quick\_start.md)
-* [endpoints](endpoints/README.md)
+* [ENDPOINTS](endpoints/README.md)
   * [Blur 👓](endpoints/blur.md)
   * [Color](endpoints/color.md)
   * [Color Image](endpoints/color\_image.md)
