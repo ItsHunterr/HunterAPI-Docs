@@ -1,5 +1,5 @@
 ---
-description: Get the lyrics of a song.
+description: Get the lyrics of a song
 ---
 
 # 🎶 Lyrics
