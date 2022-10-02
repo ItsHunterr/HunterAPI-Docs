@@ -6,7 +6,7 @@ description: Get information from a discord application.
 
 ## Making the request
 
-****[**https://hunterapi.tk/api/discord/application**](https://hunterapi.tk/discord/application)****
+****[**https://hunterapi.tk/api/discord/application**](https://hunterapi.tk/api/discord/application)****
 
 {% swagger method="get" path="/discord/application" baseUrl="https://hunterapi.tk/api" summary="Get information from a color" %}
 {% swagger-description %}
